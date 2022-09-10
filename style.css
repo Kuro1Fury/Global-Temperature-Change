@@ -1,0 +1,21 @@
+.redborder {
+  border: 3px red solid;
+}
+
+#paragraph1 {
+  padding:5px ;
+}
+
+body {
+  background-color: #e6f3ff;
+  color: black;
+}
+
+h2 {
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+. navbar-default {
+    background-color: #b1b1b3 !important;
+}
+
